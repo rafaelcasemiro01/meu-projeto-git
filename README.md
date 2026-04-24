@@ -1,2 +1,2 @@
 # meu-projeto-git
-Esse projeto, foi criado para a realização de uma atividade da disciplina de Tópicos Especiais em Informática, na Instituição FATEC Ourinhos, em Ourinhos-SP.
+Esse projeto, foi criado para a realização de uma atividade da disciplina de Tópicos Especiais em Informática, do curso de Análise e Desenvolvimento de Sistemas, na Instituição FATEC OURINHOS, em Ourinhos-SP.
